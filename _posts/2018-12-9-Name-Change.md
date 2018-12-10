@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taking my wife's name
-categories: random life
+categories: [random, life]
 ---
 
 # Intro
