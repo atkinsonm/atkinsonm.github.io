@@ -4,8 +4,6 @@ title: Taking my wife's name
 categories: [random, life]
 ---
 
-# Intro
-
 This year, I married the woman of my dreams, and subsequently made the unconventional decision to take her last name. This decision came after much thought and discussion and was not an easy choice to make. This blog post is a short account of my journey to update my identity.
 
 # Background
