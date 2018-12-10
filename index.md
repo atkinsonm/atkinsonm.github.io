@@ -15,6 +15,3 @@ When I'm not migrating and optimizing cloud workloads, I enjoy running with my 1
 ## Professional Profile
 
 My LinkedIn profile has my latest experience, certifications, and education history.
-
-## Activity
-<script src="//rss.bloople.net/?url=https%3A%2F%2Fgitlab.com%2Fmelusom.atom%3Ffeed_token%3Dsjm41TE_ifmgiYRp73Zz&showtitle=false&type=js"></script>
