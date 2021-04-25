@@ -10,7 +10,7 @@ My name is Michael Atkinson (formerly, Michael Meluso). I am a Systems Developme
 
 I've helped organizations save money by moving to the cloud and understanding cloud pricing and procurement. I've shortened software release time by employing DevOps principles. I've helped organizations do things in the cloud they could never do before by taking advantage of best-in-breed technology while implementing industry-leading principles and best practices.
 
-When I'm not migrating and optimizing cloud workloads, I enjoy running with my 1 year old Australian Shepherd, playing RPG and racing video games, and volunteering as an EMT and firefighter.
+Outside of work, I enjoy agility training with my 2 old Australian Shepherds, playing RPG and racing video games, and patronizing my local watering hole.
 
 # Professional Profile
 
