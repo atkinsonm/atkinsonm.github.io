@@ -6,7 +6,7 @@
 name: Michael Atkinson
 
 # Short bio or description (displayed in the header)
-description: Cloud and DevOps Engineer
+description: Systems Development Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/3342243?s=460&v=4
@@ -15,7 +15,7 @@ avatar: https://avatars1.githubusercontent.com/u/3342243?s=460&v=4
 # Flags below are optional
 #
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 
 # Includes an icon in the footer for each username you enter
 footer-links:
